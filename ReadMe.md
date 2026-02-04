@@ -13,8 +13,8 @@
 
 ---
 
-*Created by [@CursedDK](https://github.com/CursedDK) | Last updated: February 2026*
-
 ## 🌐 Portfolio
 Check out my portfolio website to see what I can do:
 - **MadiPortfolio**: https://madidevdk.github.io/MadiPortfolio
+
+*Created by [@CursedDK](https://github.com/CursedDK) | Last updated: February 2026*
