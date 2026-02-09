@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://via.placeholder.com/200x200/0d6efd/ffffff?text=MadiDevDK" alt="MadiDevDK Avatar" style="border-radius: 50%;">
-  <h1>🤖 MadiDevDK</h1>
+  <img src="https://via.placeholder.com/200x200/0d6efd/ffffff?text=Maki-DK" alt="Maki-DK Avatar" style="border-radius: 50%;">
+  <h1>🤖 Maki-DK</h1>
 </div>
 
 ## 👤 About Me
